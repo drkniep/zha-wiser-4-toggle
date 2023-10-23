@@ -1,1 +1,3 @@
-Blueprint
+Blueprint for ZHA Wiser 4 toggle switch in Switch Manager
+
+Save the two files in /config/blueprints/switch_manager
